@@ -23,3 +23,5 @@ Graph 4 - Shows the size of the repo accesed ploted against the number of watche
 These graphs can also be veiwed at https://plot.ly/~conorwallace
 
 The excel documents used to produce these graphs have also been added.
+
+JPEG images of the graphs have been added also, the graphs are interactive if veiwed online or in R.
